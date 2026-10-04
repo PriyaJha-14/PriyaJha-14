@@ -42,17 +42,6 @@ Hi, I'm Priya 👋 A Computer Science graduate (B.Sc) from Mumbai, passionate ab
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 🚀 Featured Projects
-
-| Project | Description | Tools |
-|---|---|---|
-| [Google Play Store Data Visualization](https://github.com/PriyaJha-14/PriyaJha-14-Google_play-store_data_analytics) | Six interactive Plotly visualizations on app categories, geography, growth, and performance (internship project) | Python, Pandas, NumPy, Plotly |
-| [Diwali Sales Analysis](https://github.com/PriyaJha-14/Diwali_Sales_Analysis) | EDA on 11,251 transactions to find valuable customer segments, with business recommendations | Python, Pandas, Matplotlib, Seaborn |
-| [E-Commerce Sales Dashboard](https://github.com/PriyaJha-14/E-commerce_Sales_Dashboard_Powerbi) | Interactive dashboard covering sales, profit, payment modes, and product categories | Power BI, DAX, Power Query |
-| [Retail Sales Analysis](https://github.com/PriyaJha-14/Sql_retail_sales_analysis) | Retail database built and analyzed with SQL to answer real business questions | SQL, PostgreSQL |
-| [Customer Shopping Behavior Analysis](https://github.com/PriyaJha-14/Customer_Trend_Data_Analysis) | 3,900 customer transactions analyzed for spending patterns, segments, and subscription behavior | Python, SQL, Power BI |
-
-👉 See all of them in my [portfolio](https://priya-jha-portfolio.vercel.app/)
 
 # 📊 GitHub Stats
 
