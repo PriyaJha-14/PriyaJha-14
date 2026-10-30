@@ -44,10 +44,6 @@
 
 ## 📊 GitHub Metrics & Stats Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaJha-14&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=20B2A6&icon_color=20B2A6" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaJha-14&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=20B2A6" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriyaJha-14&theme=radical&hide_border=true&background=0D1117&ring=20B2A6&fire=FFD700&currStreakLabel=20B2A6" alt="GitHub Streak" />
